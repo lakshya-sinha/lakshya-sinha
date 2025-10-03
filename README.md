@@ -1,54 +1,68 @@
-# 👋 Hi, I'm Lakshya Sinha
+<h1 align="center">Hey <img src="https://camo.githubusercontent.com/bbc70b6515e817d1943dadf19ca39d94cb2154df20bb1b65f942e418810d2049/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383331353032342f383832332f68797065726b697474792e6769663f31353838333135303234" height="30px" width="30px"> I'm Lakshya</h1>
+<h3 align="center">Student</h3>
 
-I'm a 13-year-old **MERN Stack Developer** and a class 9 student from India 🇮🇳.  
-I love building full-stack web apps, solving puzzles, playing chess, and exploring math & physics!
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=lakshya-sinha">
+    <img src="https://komarev.com/ghpvc/?username=lakshya-sinha&label=Profile%20views&color=00FFFF&style=flat-square" alt="lakshya-sinha's profile views" />
+  </a>
+</p>
 
----
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
-## 🚀 Tech Stack & Skills
+## 📌 About Me
+- I'm a 13-year-old MERN Stack Developer and a class 9 student from India 🇮🇳.
+- I love building full-stack web apps, solving puzzles, playing chess, and exploring math & physics!
 
-### 🌐 Frontend:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript)
-![ES6+](https://img.shields.io/badge/-ES6+-F7DF1E?logo=javascript)
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?logo=greensock)
-![Lenis](https://img.shields.io/badge/-Lenis-181818?logo=github)  
-![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js)
 
-### ⚛️ MERN Stack:
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express)
-![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshya-sinha&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400" alt="lakshya-sinha's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=lakshya-sinha&theme=dark&hide_border=true&cache_seconds=86400" alt="lakshya-sinha's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lakshya-sinha&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Lakshya's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=lakshya-sinha&theme=dark&radius=10" alt="lakshya-sinha's Activity Graph" />
+</p>
 
-### 🧠 Backend & Databases:
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql)
-![EJS](https://img.shields.io/badge/-EJS-B4CA65?logo=ejs)
-![REST API](https://img.shields.io/badge/-REST%20API-02569B?logo=api)
 
-### 🛠️ Tools & Others:
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
-![Vim](https://img.shields.io/badge/-Vim-019733?logo=vim)
-![Neovim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim)
+## 🛠️ Languages & Tools
 
----
+### Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
 
-## 🔥 My Passion
-- ♟️ Playing chess & solving puzzles — they improve my focus and strategy.
-- 🧮 Exploring math & physics — the beauty of logic and real-world problems.
-- 🧠 Building apps — making cool web tools with the MERN stack!
+### Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
 
----
+### Backend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
 
-## 🌍 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/lakshya-sinha-a69030344/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF69B4?logo=vercel)](https://lakshya-9xiw.onrender.com/portfolio)
-[![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?logo=tryhackme)](https://tryhackme.com/p/like.lakshya)
+### Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /></p>
 
----
+### DevOps & Cloud
+<p align="center"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /></p>
 
-## 📊 GitHub Stats
-![Lakshya's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshya-sinha&show_icons=true&theme=radical)
+### Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /></p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshya-sinha&layout=compact&theme=dark&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+</p>
+
+## 🔗 Connect with Me
+<p align="left"> <a href="https://www.linkedin.com/in/lakshya-sinha-a69030344/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Lakshya's LinkedIn"/></a> <a href="mailto:like.lakshyasinha@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Lakshya's Email"/></a> <a href="https://lakshya-9xiw.onrender.com/portfolio" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+</div>
 
