@@ -10,7 +10,6 @@
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- I'm a 13-year-old MERN Stack Developer and a class 9 student from India 🇮🇳.
 - I love building full-stack web apps, solving puzzles, playing chess, and exploring math & physics!
 
 
