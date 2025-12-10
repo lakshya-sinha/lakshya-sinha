@@ -1,5 +1,3 @@
-<h1 align="center">Hey <img src="https://camo.githubusercontent.com/bbc70b6515e817d1943dadf19ca39d94cb2154df20bb1b65f942e418810d2049/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383331353032342f383832332f68797065726b697474792e6769663f31353838333135303234" height="30px" width="30px"> I'm Lakshya</h1>
-<h3 align="center">Student</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=lakshya-sinha">
@@ -7,23 +5,10 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- I love building full-stack web apps, solving puzzles, playing chess, and exploring math & physics!
+- I love building full-stack web apps, solving puzzles, playing chess, and doing cp, and exploring math & physics!
 
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshya-sinha&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400" alt="lakshya-sinha's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=lakshya-sinha&theme=dark&hide_border=true&cache_seconds=86400" alt="lakshya-sinha's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lakshya-sinha&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Lakshya's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=lakshya-sinha&theme=dark&radius=10" alt="lakshya-sinha's Activity Graph" />
-</p>
 
 
 ## 🛠️ Languages & Tools
